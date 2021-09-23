@@ -38,7 +38,7 @@ Vytvoř v Reactu stránku, která bude vypadat jako na obrázku:
 	};
 	```
 
-1. Jako adresy obrázků si zkopíruj adresy z následujících odkazů: [jablko](jablko.jpg) a [hruška](hruska.jpg).
+1. Jako adresy obrázků si zkopíruj adresy z následujících odkazů: [jablko](https://github.com/Czechitas-React-podklady/React-lekce-03/raw/main/cviceni-02/jablko.jpg) a [hruška](https://github.com/Czechitas-React-podklady/React-lekce-03/raw/main/cviceni-02/hruska.jpg).
 
 1. HTML pro kartičku ovoce na stránce vypadá takto:
 
