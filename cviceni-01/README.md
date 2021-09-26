@@ -1,6 +1,7 @@
 # Cvičení 1
 
 Tady nějaká změna.
+Tady změna 2.
 Zkusíme si vytvořit jednoduchou aplikaci v Reactu zcela z nuly. Zatím React použijeme pouze tak, jak jsme se učili, a nebudeme používat nic pokročilejšího.
 
 1. Ve své složce, kde si vytváříš projekty pro tento kurz, si pomocí `create-czechitas-app` vyrob nový projekt. Nazvi ho třeba `vizitka`.
