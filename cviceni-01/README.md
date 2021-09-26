@@ -1,5 +1,6 @@
 # Cvičení 1
 
+Tady nějaká změna.
 Zkusíme si vytvořit jednoduchou aplikaci v Reactu zcela z nuly. Zatím React použijeme pouze tak, jak jsme se učili, a nebudeme používat nic pokročilejšího.
 
 1. Ve své složce, kde si vytváříš projekty pro tento kurz, si pomocí `create-czechitas-app` vyrob nový projekt. Nazvi ho třeba `vizitka`.
@@ -10,22 +11,22 @@ Zkusíme si vytvořit jednoduchou aplikaci v Reactu zcela z nuly. Zatím React p
 
 1. Do souboru `index.jsx` vlož následující kód:
 
-	```jsx
-	import React from 'react';
-	import { render } from 'react-dom';
+   ```jsx
+   import React from "react";
+   import { render } from "react-dom";
 
-	render(
-		<div className="container">
-			<header>
-				<h1>Jméno Příjmení</h1>
-			</header>
-			<main>
-				<p>Něco málo o mně.</p>
-			</main>
-		</div>,
-		document.querySelector('#app')
-	);
-	```
+   render(
+     <div className="container">
+       <header>
+         <h1>Jméno Příjmení</h1>
+       </header>
+       <main>
+         <p>Něco málo o mně.</p>
+       </main>
+     </div>,
+     document.querySelector("#app")
+   );
+   ```
 
 1. Zkus v nadpisu stránky změnit svoje jméno a podívej se do prohlížeče, zda se změna projevila.
 
