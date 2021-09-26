@@ -12,11 +12,11 @@ Vytvoř v Reactu stránku složenou z komponent.
 
 1. Vytvoř v projektu další 3 komponenty: `Header`, `Main` a `Footer`.
 
-	- `Header` bude obsahovat hlavičku stránky.
-	- `Main` bude představovat hlavní obsah - alespoň jeden nadpis a dva odstavce textu.
-	- `Footer` bude jednoduchá patička stránky.
+   - `Header` bude obsahovat hlavičku stránky.
+   - `Main` bude představovat hlavní obsah - alespoň jeden nadpis a dva odstavce textu.
+   - `Footer` bude jednoduchá patička stránky.
 
-	Obsah si vymysli zcela podle libosti.
+   Obsah si vymysli zcela podle libosti...
 
 1. Přidej vytvořené komponenty do komponenty `App`. Naše aplikace bude tvořená hlavičkou, obsahem a patičkou pod sebou.
 
